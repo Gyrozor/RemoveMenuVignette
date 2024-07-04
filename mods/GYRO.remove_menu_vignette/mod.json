@@ -1,0 +1,6 @@
+{
+    "Name" : "GYRO.remove_menu_vignette",
+    "Description" : "Removes the mp_lobby menu vignette. A client-side mod created by @Gyrozor",
+    "Version": "1.0.0",
+    "LoadPriority": 1
+}
