@@ -1,10 +1,10 @@
 # Remove Menu Vignette
-![Imgur](https://imgur.com/uI6DOZ7)
+![Imgur](https://i.imgur.com/uI6DOZ7.png)
 
 Removes the mp_lobby menu vignette. TF|2 client-side mod created by Gyrozor.
 
 ## Before:
-![Imgur](https://imgur.com/eHuFavB)
+![Imgur](https://i.imgur.com/eHuFavB.png)
 
 ## After:
-![Imgur](https://imgur.com/OutdO16)
+![Imgur](https://i.imgur.com/OutdO16.png)
